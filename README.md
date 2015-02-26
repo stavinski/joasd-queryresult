@@ -1,1 +1,2 @@
-# QueryResult implementation from journalofasoftwaredev.wordpress.com
+# QueryResult Implementation
+
